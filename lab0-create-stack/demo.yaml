@@ -12,6 +12,8 @@ Mappings:
   RegionMap:
     eu-west-1:
       AMI: ami-bff32ccc
+    eu-west-2:
+      AMI: ami-c12dcda6
     ap-southeast-1:
       AMI: ami-c9b572aa
     ap-southeast-2:
